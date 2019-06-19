@@ -3,7 +3,7 @@ Repository to store data, models and scripts used and obtained during my master'
 
 ## Folders' contents 🗂
 #### Data 📉
-This folder contains data used to train the models (original_data) and data obtained when this original data is transformed using the different models built along this work.
+This folder contains data used to train the models (original_data) and files obtained when this original data is transformed using the different models built along this work.
 
 Transformed data folder is organised into sub-folders according to the models that produce each resulting file. 
   
